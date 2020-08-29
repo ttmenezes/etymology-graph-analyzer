@@ -1,0 +1,102 @@
+graph [
+  node [
+    id 0
+    label "a"
+  ]
+  node [
+    id 1
+    label "Greek"
+  ]
+  node [
+    id 2
+    label "English"
+  ]
+  node [
+    id 3
+    label "Old English"
+  ]
+  node [
+    id 4
+    label "abandon"
+  ]
+  node [
+    id 5
+    label "Frankish"
+  ]
+  node [
+    id 6
+    label "French"
+  ]
+  node [
+    id 7
+    label "German"
+  ]
+  node [
+    id 8
+    label "Germanic"
+  ]
+  node [
+    id 9
+    label "Latin"
+  ]
+  node [
+    id 10
+    label "Old French"
+  ]
+  node [
+    id 11
+    label "Proto-Germanic"
+  ]
+  node [
+    id 12
+    label "Middle English"
+  ]
+  edge [
+    source 0
+    target 1
+  ]
+  edge [
+    source 0
+    target 2
+  ]
+  edge [
+    source 0
+    target 3
+  ]
+  edge [
+    source 2
+    target 4
+  ]
+  edge [
+    source 4
+    target 5
+  ]
+  edge [
+    source 4
+    target 6
+  ]
+  edge [
+    source 4
+    target 7
+  ]
+  edge [
+    source 4
+    target 8
+  ]
+  edge [
+    source 4
+    target 9
+  ]
+  edge [
+    source 4
+    target 10
+  ]
+  edge [
+    source 4
+    target 11
+  ]
+  edge [
+    source 4
+    target 12
+  ]
+]

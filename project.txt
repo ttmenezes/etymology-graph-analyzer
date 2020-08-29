@@ -1,0 +1,32 @@
+Project algorithm (tentative):
+- scrape words from most popular English words site - store in array
+- create a graph
+- for each word in the array...
+	- Go to the etymonline site for that word
+	- Scrape the word's ancestor words and their language or language family
+	- for each ancestor word...
+		- Add a new edge in the graph from ancestor word to modern English word
+- Either return a representation of the graph or use a library to graphically display the graph
+
+
+
+- Graph production library: NetworkX
+- Graph visualization tool: Cytoscape
+
+To do:
+- Install requests library (DONE)
+- Create file (DONE)
+- import requests library and networkX library (DONE)
+- request html from a website containing a list of most common English words (possibly EF's list of
+	the 3000 most common English words?) (DONE)
+- create a graph G
+- create for loop to iterate through the common English words
+- save graph as XGMML
+- import graph into cytoscape
+- save language terms from 'Introduction and Explanation' page (DONE)
+- Phase 1: check for mentions of terms in <p> elements
+	~ graph English words to their languages/families/terms
+	
+- Phase 2: check for mentions of other words and their terms in <p> and <span> elements
+	~ graph words to words
+	~ each word node will have an attribute stating the language/family/term

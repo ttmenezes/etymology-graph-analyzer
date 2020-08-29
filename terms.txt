@@ -1,0 +1,176 @@
+Abnaki
+Afrikaans
+Akkadian
+Algonquian
+American English
+American Spanish
+Anglian
+Anglo-French
+Anglo-Latin
+Anglo-Norman
+Arabic
+Aramaic
+Arawakan
+Armenian
+Assyrian
+Attic
+Basque
+Breton
+Cantonese
+Carib
+Catalan
+Caxton
+Celtic
+Cherokee
+Chinook
+Church Latin
+Coptic
+Cornish
+Coverdale
+Croatian
+Czech
+Danish
+DAS
+Dravidian
+Dutch
+Ecclesiastical Greek
+East Frisian
+Egyptian
+English
+Estonian
+Etruscan
+Faeroese
+Finnish
+Flemish
+Frankish
+Anglo-French
+French
+Frisian
+Fulani
+Gallo-Romance
+Gallo-Roman
+Gaelic
+Gaulish
+German
+Gothic
+Greek
+Germanic
+Guarani
+Hawaiian
+Hebrew
+Hungarian
+Ibo
+IE
+I-mutation
+Irish
+Iranian
+Iroquoian
+Italian
+Kentish
+Japanese
+Kurdish
+Kwa
+Late Latin
+Latin
+Lithuanian
+Low German
+Old Saxon
+Malay
+Mandarin
+Mandingo
+Medieval Latin
+Mercian
+Mexican Spanish
+Micmac
+Middle Dutch
+Middle English
+Middle French
+Middle High German
+Middle Irish
+Middle Low German
+Modern English
+Modern Greek
+Modern Latin
+Muskogean
+Nahuatl
+North Germanic
+North Sea Germanic
+Northumbrian
+N.T.
+Old Celtic
+OED
+Old French
+Ojibwa
+Old Church Slavonic
+Old Danish
+Old Dutch
+Old English
+Old Frisian
+Old High German
+Old Irish
+Old Italian
+Old Low German
+Old Norse
+Old North French
+Old Persian
+Old Proven�al
+Old Prussian
+Old Saxon
+Oscan
+Old Slavic
+Old Church Slavonic
+Old Spanish
+Old Swedish
+O.T.
+Pashto
+Pennsylvania Dutch
+Persian
+Phoenician
+Phrygian
+PIE
+Piman
+Polish
+Portuguese
+Pre-Greek
+Proto-Germanic
+Proto-Italic
+Proto-Indo-European
+PIE
+Proven�al
+Quechua
+Russian
+Sanskrit
+Scandinavian
+Scottish
+Semitic,
+Serbian
+Serbo-Croatian
+Sinhalese
+Siouan
+Slavic
+Slovak
+Spanish
+Sumerian
+Swedish,
+Tagalog
+Tamil
+Telugu
+Thai
+Tibetan
+Tupi
+Turkish
+Turkic
+Twi
+Ukrainian
+Urdu
+U.S.
+Uto-Aztecan
+Vulgar Latin
+West African
+West Frisian
+West Germanic
+Wolof
+West Saxon
+Xhosa
+Yoruba
+METHODS�
